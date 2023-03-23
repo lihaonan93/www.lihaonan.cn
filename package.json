@@ -1,0 +1,35 @@
+{
+  "name": "www.lihaonan.cn",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "busuanzi.pure.js": "^1.0.3",
+    "dayjs": "^1.11.7",
+    "html-to-text": "^9.0.4",
+    "inquirer": "^9.1.5",
+    "json2yaml": "^1.1.0",
+    "leancloud-storage": "^4.14.0",
+    "segmentit": "^2.0.3",
+    "vuepress": "^1.9.9",
+    "vuepress-plugin-autometa": "^0.1.13",
+    "vuepress-plugin-cursor-effects": "^1.1.6",
+    "vuepress-plugin-demo-block": "^0.7.2",
+    "vuepress-plugin-dynamic-title": "^1.0.0",
+    "vuepress-plugin-feed": "^0.1.9",
+    "vuepress-plugin-meilisearch": "^0.13.0",
+    "vuepress-plugin-mermaidjs": "^2.0.0-beta.2",
+    "vuepress-plugin-one-click-copy": "^1.0.6",
+    "vuepress-plugin-reading-progress": "^1.0.10",
+    "vuepress-plugin-rss": "^2.0.0",
+    "vuepress-plugin-rss-support": "^1.1.1",
+    "vuepress-plugin-sitemap": "^2.3.1",
+    "vuepress-plugin-vdoing-comment": "^1.1.0",
+    "vuepress-plugin-zooming": "^1.1.8",
+    "vuepress-theme-vdoing": "^1.12.8",
+    "yamljs": "^0.3.0"
+  }
+}

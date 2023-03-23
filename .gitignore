@@ -1,0 +1,16 @@
+# npm
+package-lock.json
+node_modules
+
+# yarn
+yarn.lock
+yarn-error.log
+
+# vscode
+.vscode
+
+# pycharm
+.idea
+
+# vuepress
+docs/.vuepress/dist
