@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 久浩
+heroText: null
 tagline: 这世界我们只来一次，一定要做喜欢的事。
 # actionText: 立刻进入 →
 # actionLink: /ops/
