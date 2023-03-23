@@ -11,6 +11,7 @@ module.exports = {
   lastUpdated: '上次更新', // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
   editLinks: false, // 关闭编辑按钮,此编辑无实际意义
   // category:false, // 是否打开分类功能
+  sidebarHoverTriggerOpen: true,
 
   contentBgStyle: 6, // 文章内容块的背景风格，默认无. 1 => 方格 | 2 => 横线 | 3 => 竖线 | 4 => 左斜线 | 5 => 右斜线 | 6 => 点状
 
