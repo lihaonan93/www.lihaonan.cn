@@ -6,7 +6,6 @@ const feed_options = {
 
 // 插件配置
 module.exports = [
-
   // 鼠标点击后散开小星星
   'cursor-effects',
 
