@@ -6,7 +6,7 @@ module.exports = [
 
   { text: 'Linux',link: '/Linux/',
    items: [
-      { text: '系统管理', link: '/system/'},
+      { text: '系统管理', link: '/System/'},
       { text: 'Openresty', link: '/Openresty/'},
       { text: 'PHP', link: '/PHP/'},
           ]
@@ -15,7 +15,6 @@ module.exports = [
   { text: '数据库',link: '/DB/',
     items: [
       { text: 'MySQL', link: '/MySQL/'},
-      { text: 'Redis', link: '/Redis/'},
             ]
   },
 
