@@ -8,7 +8,7 @@ module.exports = [
    items: [
       { text: '系统管理', link: '/System/'},
       { text: 'Openresty', link: '/Openresty/'},
-      { text: 'PHP', link: '/PHP/'},
+      { text: 'PHP', link: '/PHP/'}, 
       { text: 'Shell脚本', link: '/Shell/'},
           ]
   },
