@@ -9,7 +9,7 @@
   "devDependencies": {
     "busuanzi.pure.js": "^1.0.3",
     "dayjs": "^1.11.7",
-    "html-to-text": "^9.0.4",
+    "html-to-text": "^9.0.5",
     "inquirer": "^9.1.5",
     "json2yaml": "^1.1.0",
     "leancloud-storage": "^4.14.0",
