@@ -11,6 +11,7 @@ yarn-error.log
 
 # pycharm
 .idea
+testpy
 
 # vuepress
 docs/.vuepress/dist
