@@ -21,13 +21,13 @@ module.exports = {
 
   author: {
     // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
-    name: '久浩', // 必需
+    name: 'Alex', // 必需
     link: 'https://github.com/lihaonan93', // 可选的
   },
   blogger: {
     // 博主信息，显示在首页侧边栏
     avatar: '/img/datou.jpeg',
-    name: '久浩',
+    name: 'Alex',
     slogan: '临渊羡鱼，不如退而结网。',
   },
   social: {
