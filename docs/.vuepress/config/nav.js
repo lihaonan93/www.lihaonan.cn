@@ -18,6 +18,7 @@ module.exports = [
       { text: 'MySQL', link: '/MySQL/'},
             ]
   },
-  { text: '未分类',link: '/Unclassified/'},
+  { text: '碎片化文档',link: '/Unclassified/'},
+  { text: 'VuePress',link: '/VuePress/'},
   { text: '关于', link: '/about/' },
 ]
