@@ -10,6 +10,7 @@ module.exports = [
       { text: 'Openresty', link: '/Openresty/'},
       { text: 'PHP', link: '/PHP/'}, 
       { text: 'Shell脚本', link: '/Shell/'},
+      { text: 'OpenVPN', link: '/OpenVPN/'},
           ]
   },
 
