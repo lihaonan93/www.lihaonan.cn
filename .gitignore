@@ -16,3 +16,6 @@ docs/.vuepress/dist
 
 # 临时文件
 tmp
+
+# 待编辑的文档
+DocsEdit
