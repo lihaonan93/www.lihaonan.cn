@@ -16,7 +16,8 @@ module.exports = [
 
   { text: '数据库',link: '/DB/',
     items: [
-      { text: 'MySQL', link: '/MySQL/'},
+        { text: 'MySQL', link: '/MySQL/'},
+        { text: 'PostgreSQL', link: '/PostgreSQL/'},
             ]
   },
   { text: '碎片化文档',link: '/Unclassified/'},
